@@ -1,7 +1,9 @@
-## Oiii eu sou a Rafaella Seara
+## Helloooo, I'm Rafaella Seara
 
-Atualme
+I am currently a systems analysis and development student, interested in learning new languages ​​and tools to make the world a little more practical, as well as loving learning a new language, welcome to my profile!
+![GIF do gato]([https://media.tenor.com/1vP3LgZY9B4AAAAC/cat-hiss-cat-hiss-mean-cat-leave-me-alone.gif](https://media1.tenor.com/m/cdgu_rxP5vwAAAAd/cat-hiss.gif))
 
+## Estou aprendendo
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
